@@ -1,4 +1,5 @@
 
+
 # 1_Variables_y_Operadores
 Creación y uso de variables. Uso de operadores básicos.
 
@@ -12,7 +13,12 @@ Actividades de clase.
 3. Calcular el porcentaje pagar un cliente al comprar una moto de 5000€ a plazos con un interés progresivo mensual del 5% si finalmente tarda 6 meses.  
 4. Imprimir el valor numérico de un carácter = 'b'.
 5. Declarar un int y un double y mostrar el resultado de la suma y resta de las variables.
-6. Buscar cómo pedir al usuario que introduzca dos números y mostrar el resultado de su multiplicación (con Scanner).
+6. Buscar cómo pedir al usuario que introduzca dos números y mostrar el resultado de su multiplicación (con Scanner).  
+  
+Corrección:
+~~~
+Recuerda que puedes añadir el carácter \n al final de un sout para añadir un salto de línea. Así evitarías añadir ese sout vacío.
+~~~
 
 ## Operadores
 **Operadores**  
