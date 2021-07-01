@@ -17,7 +17,8 @@ Actividades de clase.
   
 Corrección:
 ~~~
-Recuerda que puedes añadir el carácter \n al final de un sout para añadir un salto de línea. Así evitarías añadir ese sout vacío.
+Recuerda que puedes añadir el carácter \n al final de un sout para añadir un salto de línea. 
+Así evitarías añadir ese sout vacío.
 ~~~
 
 ## Operadores
